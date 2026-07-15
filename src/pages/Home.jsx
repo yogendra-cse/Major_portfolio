@@ -240,7 +240,7 @@ export default function Home() {
               boxShadow: '0 8px 30px rgba(37,99,235,0.08)',
             }}>
               <img
-                src="src\assets\yoge_img.png"
+                src="/yoge_img.png"
                 alt="Yogendra N – Profile"
                 style={{
                   width: '100%', height: '100%', objectFit: 'cover',
