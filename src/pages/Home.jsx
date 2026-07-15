@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { useForm } from 'react-hook-form';
 import { toast } from 'react-toastify';
 import { portfolioData } from '../utils/portfolioData';
-
+import yogeImg from "../assets/yoge_img1.png";
 // ─── Lucide icons (subset we actually use) ─────────────────
 import {
   Github, Linkedin, ExternalLink, Download, Mail, Phone,
@@ -240,7 +240,7 @@ export default function Home() {
               boxShadow: '0 8px 30px rgba(37,99,235,0.08)',
             }}>
               <img
-                src="/yoge_img.png"
+                src={yogeImg}
                 alt="Yogendra N – Profile"
                 style={{
                   width: '100%', height: '100%', objectFit: 'cover',
