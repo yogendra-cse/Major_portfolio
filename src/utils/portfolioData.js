@@ -132,7 +132,7 @@ export const portfolioData = {
       
     },
     {
-      title: 'Premium Frontend Portfolio',
+      title: 'Frontend Portfolio',
       description: 'Redesigned and optimized static portfolio site highlighting creative projects, UI transitions, and modular designs utilizing modern styling guidelines.',
       features: [
         'Clean semantic HTML markup structure',
