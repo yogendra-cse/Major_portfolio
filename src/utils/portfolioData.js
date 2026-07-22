@@ -9,7 +9,7 @@ export const portfolioData = {
       'Backend Development (Node.js & Express)',
       'Frontend Development (React.js & Tailwind)',
       'MongoDB Database Optimization',
-      'RESTful & GraphQL API Design',
+      'RESTful API Design',
       'TypeScript & Next.js Ecosystem',
       'Data Structures & Algorithms (C++)',
       'Scalable Architecture & Design Patterns'
