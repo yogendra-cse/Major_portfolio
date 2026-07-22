@@ -114,7 +114,7 @@ export const portfolioData = {
       techStack: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.io', 'JWT', 'Cloudinary', 'Tailwind CSS'],
       github: 'https://github.com/yogendra-cse/Book-Exchange-Platform',
       image: 'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=600&auto=format&fit=crop',
-      metrics: 'Average 120ms API response time'
+      
     },
     {
       title: 'MERN Blog Platform',
@@ -129,7 +129,7 @@ export const portfolioData = {
       techStack: ['MongoDB', 'Express', 'React', 'Node.js', 'Cloudinary', 'Tailwind CSS'],
       github: 'https://github.com/yogendra-cse/MERN-Blog-website',
       image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=600&auto=format&fit=crop',
-      metrics: '99% SEO score audit rating'
+      
     },
     {
       title: 'Premium Frontend Portfolio',
@@ -142,7 +142,7 @@ export const portfolioData = {
       techStack: ['HTML5', 'CSS3', 'JavaScript'],
       github: 'https://github.com/SECE-2023-2027/portfolio-mern-yogendra-cse',
       image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=600&auto=format&fit=crop',
-      metrics: 'Redefined design with 0 outer dependencies'
+      
     }
   ],
   achievements: [
